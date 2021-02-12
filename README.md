@@ -1,4 +1,6 @@
 # Python ile web sayfalarından bilgi çekmek - Web Scraping
+#### Program Tanımı
+Excel dosyasında verilen sitelere giderek oradaki ürünlerin bilgilerini çeken ve liste şeklinde tekrar kaydeden bir programdır. Çıktısını *"output.xlsx"* dosyasından görebilirsiniz.
 
 #### Kullanılan Paketler
 *Python 3* ile verileri çekmek için *BeautifulSoup4* ve *Requests* kütüphaneleri tercih edilmiştir.
